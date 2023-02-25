@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrankStrickland
 - 👀 I’m interested in IT,IEEE
-- 🌱 I’m currently learning PC technologies
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on something new and interesting
 - 📫 How to reach me chat with me directly
 
