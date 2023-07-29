@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrankStrickland
+- 👋 Hi, I’m @Frank Strickland
 - 👀 I’m interested in IT,IEEE
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on something new and interesting
